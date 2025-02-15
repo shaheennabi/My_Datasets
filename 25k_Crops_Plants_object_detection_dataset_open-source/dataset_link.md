@@ -6,6 +6,8 @@
 ## Introduction
 I am excited to open-source this dataset to help developers, researchers, and machine learning enthusiasts build object detection models for agricultural applications. This dataset consists of annotated images of **100 different crops/plants**, providing a valuable resource for training and evaluating object detection models.
 
+*Remember: This dataset is in .zip format, extract the .zip file and dataset is yours*
+
 ## Dataset Details
 The dataset is available on **[Hugging Face](https://huggingface.co/datasets/devshaheen/100_crops_plants_object_detection_25k_image_dataset)** and contains three splits:
 - **Train:** 17,553 images with corresponding labels
