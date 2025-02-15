@@ -130,7 +130,7 @@ This dataset includes **100 different crops/plants**, covering a wide range of a
 ## Download Dataset
 Clone this repository to access the dataset:
    ```bash
-   git clone git clone https://huggingface.co/datasets/devshaheen/100_crops_plants_object_detection_25k_image_dataset
+   git clone https://huggingface.co/datasets/devshaheen/100_crops_plants_object_detection_25k_image_dataset
 
    ```
 
