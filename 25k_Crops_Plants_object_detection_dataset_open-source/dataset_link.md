@@ -1,5 +1,8 @@
 # Open-Source Crop/Plant Object Detection Dataset
 
+*Note: If you need this dataset in any other format, DM me on LinkedIn or ask in the discussions box. I will provide it ASAP.*
+
+
 ## Introduction
 I am excited to open-source this dataset to help developers, researchers, and machine learning enthusiasts build object detection models for agricultural applications. This dataset consists of annotated images of **100 different crops/plants**, providing a valuable resource for training and evaluating object detection models.
 
