@@ -127,12 +127,16 @@ This dataset includes **100 different crops/plants**, covering a wide range of a
 99. Watermelon  
 100. Wheat  
 
-## Download Dataset
-Clone this repository to access the dataset:
-   ```bash
-   git clone https://huggingface.co/datasets/devshaheen/100_crops_plants_object_detection_25k_image_dataset
+## Use the dataset
+```python
+from datasets import load_dataset
 
-   ```
+# Load the dataset
+dataset = load_dataset("devshaheen/100_crops_plants_object_detection_25k_image_dataset")
+
+# Check the dataset structure
+print(dataset)
+```
 
 ## License
 This dataset is released under the **MIT License**, allowing free use for both research and commercial projects. Please credit this repository if you use it in your work.
